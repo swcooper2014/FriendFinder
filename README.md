@@ -10,28 +10,28 @@ Demo
 Installation
 To install the application follow the instructions below:
 
-git clone https://github.com/swcooper2014/FriendFinder.git
+    git clone https://github.com/swcooper2014/FriendFinder.git
 
-cd FriendFinder
+    cd FriendFinder
 
-npm install
+    npm install
 
-node server.js
+    node server.js
 
 The application will now be running locally on PORT, in this case that is port 8080. You can then access it locally from your browser at the URL localhost:PORT, in this case localhost:8080.
 
 Tehcnologies Used:
 
-HTML
+    HTML
 
-CSS
+    CSS
 
-Materialize CSS
+    Materialize CSS
 
-Node.js
+    Node.js
 
-Express NPM Package (https://www.npmjs.com/package/express)
+    Express NPM Package (https://www.npmjs.com/package/express)
 
-PAth NPM Package (https://www.npmjs.com/package/path)
+    PAth NPM Package (https://www.npmjs.com/package/path)
 
-Body-Parser NPM Package (https://www.npmjs.com/package/body-parser)
+    Body-Parser NPM Package (https://www.npmjs.com/package/body-parser)
