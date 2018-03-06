@@ -11,8 +11,11 @@ Installation
 To install the application follow the instructions below:
 
 git clone https://github.com/swcooper2014/FriendFinder.git
+
 cd FriendFinder
+
 npm install
+
 node server.js
 
 The application will now be running locally on PORT, in this case that is port 8080. You can then access it locally from your browser at the URL localhost:PORT, in this case localhost:8080.
