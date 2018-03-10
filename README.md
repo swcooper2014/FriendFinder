@@ -4,8 +4,8 @@ Friend Finder implements friend matching based on the user's responses to a ten 
 
 The application is implemented using a Node.js and Express server on the back end and the Materialize CSS framework on the front end.
 
-Demo
-(Heroku Link Here)
+You can view the live app here: https://friendfindersc.herokuapp.com/
+
 
 Installation
 To install the application follow the instructions below:
